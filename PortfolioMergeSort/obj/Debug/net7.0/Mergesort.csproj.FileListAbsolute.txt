@@ -1,0 +1,14 @@
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\Mergesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\Mergesort.AssemblyInfoInputs.cache
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\Mergesort.AssemblyInfo.cs
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\bin\Debug\net7.0\Mergesort.exe
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\bin\Debug\net7.0\Mergesort.deps.json
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\bin\Debug\net7.0\Mergesort.runtimeconfig.json
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\bin\Debug\net7.0\Mergesort.dll
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\bin\Debug\net7.0\Mergesort.pdb
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\Mergesort.dll
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\refint\Mergesort.dll
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\Mergesort.pdb
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\Mergesort.genruntimeconfig.cache
+C:\Users\Vivienne\Documents\1 DigitalTalents\1.1 Unterricht\1.1.3 Portfolio\1.1.3.6 Code-Track\Algorithmen\Mergesort\obj\Debug\net7.0\ref\Mergesort.dll
